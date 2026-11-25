@@ -31,8 +31,7 @@ Atuo desde 2023. Gosto de entrega completa: escopo claro, log, tratamento de err
 
 ## repos públicos
 
-- [hive-dev---landing-page](https://github.com/iammatheuszn/hive-dev---landing-page)
-- [jaja](https://github.com/iammatheuszn/jaja)
+- [last-training](https://github.com/iammatheuszn/last-training) — JavaScript
 
 Portfólio completo em repositório privado. Me chama e eu mostro.
 
